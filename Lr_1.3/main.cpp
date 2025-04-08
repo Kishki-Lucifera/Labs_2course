@@ -142,7 +142,7 @@ int main()
     Character hero("Hero", 100, 20, 10);
     Monster goblin("Goblin", 50, 15, 5);
     Monster dragon("Dragon", 150, 25, 20);
-    Boss boss("Kailth", 300, 50, 20, "Fireball", 30);
+    Boss boss("Dragon_boss", 300, 50, 20, "Fireball", 30);
 
         // Массив указателей на базовый класс
         Entity *entities[] = {&hero, &goblin, &dragon, &boss};
