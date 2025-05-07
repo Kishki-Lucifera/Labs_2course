@@ -69,9 +69,9 @@ int main() {
     Person person;
 
     // Устанавливаем значения с помощью сеттеров
-    person.setName("Ivan Ivanov");
+    person.setName("John Doe");
     person.setAge(25);
-    person.setEmail("ivan.ivanov@example.com");
+    person.setEmail("john.doe@example.com");
     person.setAddress("123 Main Street");
 
     // Выводим информацию с помощью геттеров
@@ -80,13 +80,13 @@ int main() {
     std::cout << "Email: " << person.getEmail() << std::endl;
     std::cout << "Address: " << person.getAddress() << std::endl;
 
-    // Если установить некорректные значения
+    // Пытаемся установить некорректные значения
     person.setName(""); // Ошибка: имя не может быть пустым
-    person.setAge(178); // Ошибка: возраст должен быть от 0 до 120
+    person.setAge(150); // Ошибка: возраст должен быть от 0 до 120
     person.setEmail("invalid-email"); // Ошибка: некорректный email
     person.setAddress(""); // Ошибка: адрес не может быть пустым
 
-    // Вывод информации
+    // Выводим информацию о человеке
     person.displayInfo();
 
     return 0;
