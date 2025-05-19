@@ -1,0 +1,70 @@
+[2025-05-18 20:53:00] === Game session started ===
+[2025-05-18 20:53:00] Game started for player: 
+[2025-05-18 22:04:30] === Game session started ===
+[2025-05-18 22:04:30] Game started for player: uu
+[2025-05-18 22:04:47] uu explores the area
+[2025-05-18 22:04:47] uu encounters Skeleton
+[2025-05-18 22:05:05] uu attacks Skeleton
+[2025-05-18 22:05:05] Skeleton attacks uu
+[2025-05-18 22:05:20] uu attacks Skeleton
+[2025-05-18 22:05:20] Skeleton attacks uu
+[2025-05-18 22:05:25] uu attacks Skeleton
+[2025-05-18 22:05:25] Skeleton attacks uu
+[2025-05-18 22:05:29] uu failed to flee
+[2025-05-18 22:05:29] Skeleton attacks uu
+[2025-05-18 22:05:38] uu attacks Skeleton
+[2025-05-18 22:05:38] Skeleton attacks uu
+[2025-05-18 22:05:38] Skeleton defeated!
+[2025-05-18 22:05:38] uu defeated Skeleton and gained 48 XP
+[2025-05-18 22:05:38] uu found Magic Staff
+[2025-05-18 22:05:39] uu explores the area
+[2025-05-18 22:05:39] uu found Elixir
+[2025-05-18 22:05:40] uu explores the area
+[2025-05-18 22:05:40] uu found nothing
+[2025-05-18 22:06:15] Game saved
+[2025-05-18 22:06:20] Game loaded
+[2025-05-18 22:30:41] === Game session started ===
+[2025-05-18 22:30:41] Game started for player: rrt
+[2025-05-18 22:30:44] rrt explores the area
+[2025-05-18 22:30:44] rrt encounters Goblin
+[2025-05-18 22:30:48] Goblin attacks rrt
+[2025-05-18 22:30:57] rrt attacks Goblin
+[2025-05-18 22:30:57] Goblin attacks rrt
+[2025-05-18 22:48:05] === Game session started ===
+[2025-05-18 22:48:05] Game started for player: ghg
+[2025-05-18 23:52:39] === Game session started ===
+[2025-05-18 23:52:39] Game started for player: fghfh
+[2025-05-19 09:08:31] === Game session started ===
+[2025-05-19 09:08:31] Game started for player: yuri
+[2025-05-19 10:12:18] === Game session started ===
+[2025-05-19 10:12:18] Game started for player: yuri
+[2025-05-19 10:12:35] yuri explores the area
+[2025-05-19 10:12:35] yuri encounters Goblin
+[2025-05-19 10:12:39] yuri attacks Goblin
+[2025-05-19 10:12:39] Goblin attacks yuri
+[2025-05-19 10:12:48] Error: Item not found: 1
+[2025-05-19 10:12:52] yuri attacks Goblin
+[2025-05-19 10:12:52] Goblin attacks yuri
+[2025-05-19 10:12:56] yuri attacks Goblin
+[2025-05-19 10:12:56] Goblin attacks yuri
+[2025-05-19 10:12:59] Goblin defeated!
+[2025-05-19 10:12:59] yuri defeated Goblin and gained 37 XP
+[2025-05-19 10:12:59] yuri found Magic Staff
+[2025-05-19 10:13:08] yuri explores the area
+[2025-05-19 10:13:08] yuri found nothing
+[2025-05-19 10:13:12] yuri explores the area
+[2025-05-19 10:13:12] yuri found nothing
+[2025-05-19 10:13:13] yuri explores the area
+[2025-05-19 10:13:13] yuri encounters Skeleton
+[2025-05-19 10:13:17] yuri attacks Skeleton
+[2025-05-19 10:13:17] Skeleton attacks yuri
+[2025-05-19 10:13:29] Error: Item not found: 3
+[2025-05-19 10:13:32] yuri attacks Skeleton
+[2025-05-19 10:13:32] Skeleton attacks yuri
+[2025-05-19 10:13:39] Error: Item not found: 2
+[2025-05-19 10:13:42] yuri attacks Skeleton
+[2025-05-19 10:13:42] Skeleton attacks yuri
+[2025-05-19 10:13:43] yuri attacks Skeleton
+[2025-05-19 10:13:43] Skeleton attacks yuri
+[2025-05-19 10:13:45] Skeleton defeated!
+[2025-05-19 10:13:45] yuri defeated Skeleton and gained 41 XP
